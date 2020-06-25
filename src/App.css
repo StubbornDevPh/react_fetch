@@ -1,3 +1,9 @@
+html {
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
 .App {
   text-align: center;
 }
